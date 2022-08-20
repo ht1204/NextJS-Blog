@@ -10,5 +10,5 @@ Following the tutorial:
 
 1. `npm install` or `npm i`
 2. `npm run dev` (for development mode) or `npm run start` (only for starting server)
-3. Open Web Browser for Localhost: [http://localhost:3000](http://localhost:3000)
+3. Open Web Browser for Localhost: [localhost](http://localhost:3000)
 4. Enjoy!
